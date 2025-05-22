@@ -27,9 +27,9 @@ A Machine Learning project to predict laptop prices based on technical specifica
 ---
 
 ### 📷 Screenshots
-<img width="787" alt="LPP IMG1" src="https://github.com/user-attachments/assets/4303555c-6c0a-45f2-9add-7a962e5a17da" />
-<img width="744" alt="LPP2 img2" src="https://github.com/user-attachments/assets/fda9316c-888b-4e69-b1e6-328f7396fd3a" />
-<img width="740" alt="LPP IMG3" src="https://github.com/user-attachments/assets/361c74b4-2d85-462d-97b6-da68a581c29a" />
+<img width="950" alt="img2" src="https://github.com/user-attachments/assets/247e70a2-4654-4f41-a6c1-73c6fb8ff39e" />
+<img width="946" alt="img3" src="https://github.com/user-attachments/assets/b5b0fddc-536e-4d26-88e9-ab5ff9c52a60" />
+<img width="931" alt="img4" src="https://github.com/user-attachments/assets/f82a626f-7153-4490-a5ef-0ab9f537c180" />
 
 
 ## 📌 Future Work
