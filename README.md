@@ -31,12 +31,6 @@ A Machine Learning project to predict laptop prices based on technical specifica
 <img width="946" alt="img3" src="https://github.com/user-attachments/assets/b5b0fddc-536e-4d26-88e9-ab5ff9c52a60" />
 <img width="931" alt="img4" src="https://github.com/user-attachments/assets/f82a626f-7153-4490-a5ef-0ab9f537c180" />
 
-
-## 📌 Future Work
-- Improve model with larger dataset
-- Integrate deep learning regressor
-- Add cloud logging and analytics
-
 ---
 
 ⭐ If you like this project, don't forget to **star** the repo!
