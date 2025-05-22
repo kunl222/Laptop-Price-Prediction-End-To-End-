@@ -16,7 +16,7 @@ A Machine Learning project to predict laptop prices based on technical specifica
 - Jupyter Notebook
 
 ## 🚀 Try it Out
-🔗 [Live Web App](#)  
+🔗 [Live Web App](https://laptop-price-prediction-pmmcjld9hb9aijrsaqwhui.streamlit.app/)  
 📂 [View the Code on GitHub](https://github.com/kunl222/Laptop-Price-Prediction)
 
 ## 🧠 How It Works
